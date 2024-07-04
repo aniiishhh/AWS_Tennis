@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, I built an automated ETL pipeline to extract, transform, and load tennis data from the web, process it using AWS services, and visualize it with Tableau. The goal was to create a robust, scalable, and efficient data pipeline that can handle regular updates and provide actionable insights through interactive dashboards. 
+In this project, I built an automated ETL pipeline to extract, transform, and load tennis data from the web, process it using AWS services, and visualize it with Tableau. The goal was to create a robust, scalable, and efficient data pipeline that can handle regular updates and provide actionable insights through an Interactive Dashboard ([Dashboard sample from data extract](https://public.tableau.com/app/profile/anish.pravin.kulkarni/viz/ATPTennisDashboard_17192883856510/Dashboard1)). 
 
 ## [Data Architecture Diagram](aws_tennis_data_architecture.pdf)
 
