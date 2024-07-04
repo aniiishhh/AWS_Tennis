@@ -6,7 +6,7 @@ In this project, I built an automated ETL pipeline to extract, transform, and lo
 
 ## Data Architecture Diagram
 
-![Data Architecture Diagram](data-architecture-diagram.png)
+![Data Architecture Diagram](aws_tennis_data_architecture.jpg)
 
 ## Step-by-Step Implementation
 
